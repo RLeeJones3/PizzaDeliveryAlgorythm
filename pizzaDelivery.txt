@@ -1,0 +1,6 @@
+Decide on pizza to order
+Decide how to order the pizza (phone, website)
+Set up an order for pizza
+Confirm address and payment
+Wait for the pizza
+Recieve the pizza
